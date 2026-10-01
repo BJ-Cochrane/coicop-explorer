@@ -1,0 +1,11 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+rsconnect/
+
+data-raw/*.xlsx
+data-raw/*.tsv
+data-raw/*.gz
+data-raw/DOWNLOADED_ON.txt
