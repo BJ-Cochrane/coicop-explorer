@@ -6,7 +6,7 @@ Search, browse and compare the UN **Classification of Individual Consumption Acc
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/coicop-explorer.git
+git clone https://github.com/BJ-Cochrane/coicop-explorer.git
 cd coicop-explorer
 Rscript run.R
 ```
